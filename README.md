@@ -1,0 +1,1 @@
+# check_size_mybitset_optimization
